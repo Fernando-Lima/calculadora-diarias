@@ -133,6 +133,14 @@ const Index = () => {
           >
             https://github.com/Fernando-Lima/diaria-prefeitura
           </a>
+          <div>
+            <a
+              href="/politica-de-privacidade"
+              className="mt-2 inline-block font-medium text-primary underline-offset-4 hover:underline"
+            >
+              Política de Privacidade
+            </a>
+          </div>
         </div>
       </footer>
     </div>
